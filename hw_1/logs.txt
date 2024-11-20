@@ -1,0 +1,1 @@
+Файл скопирован: [test/file_to_copy.txt] >> [test2/2024-11-20~file_to_copy.txt]
